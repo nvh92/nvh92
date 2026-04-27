@@ -38,7 +38,7 @@ Fullstack Engineer building scalable systems & AI-powered applications.
 ## 📫 Contact
 
 - GitHub: https://github.com/nvh92
-- Email: hiimhiep1301@example.com  
+- Email: hiimhiep1301@gmail.com  
 
 ---
 
