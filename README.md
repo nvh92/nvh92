@@ -2,7 +2,7 @@
 
 Fullstack Engineer building scalable systems & AI-powered applications.
 
-## 🧠 About Me
+## About Me
 
 - Focus on clean architecture & maintainable systems  
 - Strong in API-first / contract-driven development  
@@ -11,7 +11,7 @@ Fullstack Engineer building scalable systems & AI-powered applications.
 
 ## ⚙️ Tech Stack
 
-### 🖥️ Core
+### Core
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
@@ -20,11 +20,11 @@ Fullstack Engineer building scalable systems & AI-powered applications.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 
-### 🤖 AI / LLM
+### AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-121212)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E57E0)
 
-### ☁️ Cloud & Infra
+### Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative)
@@ -38,7 +38,6 @@ Fullstack Engineer building scalable systems & AI-powered applications.
 ## 📫 Contact
 
 - GitHub: https://github.com/nvh92
-- Email: hiimhiep1301@gmail.com  
 
 ---
 
